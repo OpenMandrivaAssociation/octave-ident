@@ -7,7 +7,7 @@ Release:        5
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
-Url:		http://octave.sourceforge.net/ident/
+Url:		https://octave.sourceforge.net/ident/
 Conflicts:	octave-forge <= 20090607
 Requires:	octave >= 2.9.7
 BuildRequires:  octave-devel >= 2.9.7
